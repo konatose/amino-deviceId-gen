@@ -1,4 +1,4 @@
-from time import time
+from time import sleep
 from requests import get
 from pyfiglet import figlet_format
 from concurrent.futures import ThreadPoolExecutor
